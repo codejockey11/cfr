@@ -1,0 +1,61 @@
+a.index:link
+{
+	font-family:Verdana;
+	font-size:12px;
+	font-weight:normal;
+	text-decoration:none;
+	color:rgb(11, 83, 148);
+}
+a.index:visited
+{
+	font-family:Verdana;
+	font-size:12px;
+	font-weight:normal;
+	text-decoration:none;
+	color:rgb(11, 83, 148);
+}
+a.index:hover
+{
+	font-family:Verdana;
+	font-size:12px;
+	font-weight:normal;
+	text-decoration:underline;
+}
+I
+{
+	font-family:Verdana;
+	font-size:12px;
+	font-weight:bold;
+	text-decoration:italics;
+	text-align:left;
+}
+h1, h2, h3, h4, h5, h6, h7
+{
+	font-family:Verdana;
+	font-size:12px;
+	font-weight:normal;
+	margin-left:3px;
+	margin-top:0px;
+	margin-bottom:0px;
+	margin-right:3px;
+}
+a.entry:link, a.entry:visited, a.entry:hover, a.entry:active
+{
+	font-family:Verdana;
+	font-size:12px;
+	font-weight:bold;
+	text-decoration:none;
+	color:rgb(0, 0, 0);
+}
+h4.entry, h5.entry, h6.entry, h7.entry
+{
+	font-family:Verdana;
+	font-size:12px;
+	font-weight:bold;
+	text-decoration:none;
+	color:rgb(0, 0, 0);
+	margin-left:3px;
+	margin-top:0px;
+	margin-bottom:0px;
+	margin-right:3px;
+}
